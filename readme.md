@@ -1,6 +1,6 @@
 # Adopets API Challenge
 
-This project was created to be part of Adopets selection process.
+This project was created to be part of Adopets selection process to Back-end developer position.
 
 ## End Points
 
